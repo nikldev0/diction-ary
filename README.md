@@ -23,4 +23,4 @@ A dictionary app using the Fetch API from Merriam-Webster.
  
  ## Challenges I overcame: 
  
- 1. Navigating the API object was sometimes difficult as there was much more information than I needed, as well as manipulating the array objects to present specific        data. I overcame this by consulting a list I made prior of the exact information I wanted to include. I also spent some time familiarsing myself with the API data to become more comfortable making the right extractions to the DOM. 
+ 1. Navigating the API object was sometimes difficult as there was much more information than I needed. This also made manipulating array objects to present specific        data difficult. I overcame this by consulting a list I made prior of the exact information I wanted to include. I also spent some time familiarsing myself with the API data to become more comfortable making the right extractions to the DOM. 
